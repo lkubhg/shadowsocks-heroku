@@ -4,7 +4,7 @@
   "scheme": "ws",
   "local_port": 1080,
   "remote_port": 443,
-  "password": "PiW&8OIcgBg#LP#f^K0Td\!N@P{y'j^}jSQWo=4",
+  "password": "PiW&8OIcgBg#LP#f^K0TdN@P",
   "timeout": 600,
   "method": "aes-256-cfb"
 }
