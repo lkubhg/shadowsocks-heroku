@@ -1,10 +1,10 @@
 {
-  "server": "happyeveryday202004.herokuapp.com",
+  "server": "hiutw.herokuapp.com",
   "local_address": "127.0.0.1",
   "scheme": "ws",
   "local_port": 1080,
   "remote_port": 443,
-  "password": "onplus",
+  "password": "PiW&8OIcgBg#LP#f^K0Td\!N@P{y'j^}jSQWo=4",
   "timeout": 600,
   "method": "aes-256-cfb"
 }
